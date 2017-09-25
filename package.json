@@ -1,0 +1,19 @@
+{
+  "name": "stortz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Toadilicious/Stortz-lighting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Toadilicious/Stortz-lighting/issues"
+  },
+  "homepage": "https://github.com/Toadilicious/Stortz-lighting#readme"
+}

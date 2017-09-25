@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Toadilicious/Stortz-lighting/issues"
   },
-  "homepage": "https://github.com/Toadilicious/Stortz-lighting#readme"
+  "homepage": "https://github.com/Toadilicious/Stortz-lighting#readme",
+  "dependencies": {
+    "express": "^4.15.5"
+  }
 }
